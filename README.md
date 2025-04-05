@@ -25,7 +25,7 @@ A React-based movie shopping website where users can search for movies, add them
 ### 2. **Clone the Repository**
 Clone the repository to your local machine:
 bash
-git clone https://github.com/your-username/movie-shop.git
+git clone https://github.com/ZulfaBueraheng/MovieShop.git
 
 ### 3. Install Dependencies 
 Navigate to the project directory:
